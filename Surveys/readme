@@ -1,0 +1,4 @@
+
+# How to use these surveys
+Each participant is sent a customized survey link, containing embedded variables such as their study ID, study session number, and experimental condition. This customized link will ultimately pass participants through several Qualtrics modules, as appropriate for the study session and experimental condition. 
+The surveys will not operate as expected without using a link containing the expected embedded variables. See Qualtrics & RedCap Paths _ Flow - Remote Geo.xlsx for link customization. 
