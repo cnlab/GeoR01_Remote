@@ -1,0 +1,6 @@
+You are using fMRIPrep-20.0.6, and a newer version of fMRIPrep is available: 21.0.2.
+Please check out our documentation about how and when to upgrade:
+https://fmriprep.readthedocs.io/en/latest/faq.html#upgrading
+fMRIPrep failed: Workflow did not execute cleanly. Check log for details
+Preprocessing did not finish successfully. Errors occurred while processing data from participants: GS008 (1). Check the HTML reports for details.
+srun: error: cls01: task 0: Exited with exit code 1
